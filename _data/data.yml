@@ -137,7 +137,10 @@ projects:
 
 publications:
     title: Publications
-
+    intro: >
+          You can list your side projects or open source libraries in this
+          section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     papers:
       - title: A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data.
         authors: Niklas Rindtorff, Alexander D’Amour, MingYu Lu, Huahua Zheng, and Nisarg Patel
