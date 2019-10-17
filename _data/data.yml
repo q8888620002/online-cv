@@ -86,8 +86,6 @@ experiences:
       company: Academia Sinica, Institution of Information Science, Taipei, Taiwan
       details: |
       
-      	  Advisor, TingYi Sung
-
           Improved efficiency of protein spectrum viewer by refactoring data structure and deploying visitor pattern of fragmented spectrum. 
              Designed and implemented user interface of the spectrum viewer.
              
