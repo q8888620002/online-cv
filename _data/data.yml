@@ -98,10 +98,6 @@ experiences:
           - Implemented random forest regression and factorization machine with Libm in Python, 
             with an MSE of 4.3 minutes as the outcome. (Dec 2016 - March 2017)
 
-
-
-
-
 teaching_experiences: 
     - role: Faculty, Collaborative Data Science in Medicine, HST.953
       time: July 2019 - present
