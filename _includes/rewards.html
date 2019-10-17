@@ -1,0 +1,38 @@
+{% assign projects = site.data.data.rewards %}
+{% if rewards %}
+<section class="section rewards-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ rewards.title }}
+  </h2>
+
+  {% if rewards.intro %}
+  <div class="intro">
+      <p>{{ rewards.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for reward in rewards.assignments %}
+    <div class="item">
+
+      <span class="reward-title">
+        {% if reward.link %}
+        <a href="{{ reward.link }}" target="_blank">{{ reward.title }}</a>
+        {% else %}
+        {{ reward.title }}
+        {% endif %}
+      </span>
+
+      {% if reward.tagline %}
+      - <span class="reward-tagline">{{ reward.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
