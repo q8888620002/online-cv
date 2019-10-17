@@ -131,8 +131,8 @@ publications:
 projects:
     title: Editoral Activities
     assignments:
-      - title: NeurIPS Machine Learning for Health (ML4H) Workshop 2019	
-        tagline: "Reviewer"
+      - title: Reviewer
+        tagline: "NeurIPS Machine Learning for Health (ML4H) Workshop 2019	"
 
 rewards:
     title: Award
