@@ -133,7 +133,7 @@ publications:
         conference: New In ML Workshop at NeurIPS 2019. (submitted)
 
       - title: G-Net- A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes.
-        authors: Rui Li, Zach Shahn(co-first authors), Jun Li, <span style="color:black">MingYu Lu</b>,  Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman
+        authors: Rui Li, Zach Shahn(co-first authors), Jun Li, <span style="color:black">MingYu Lu</span>,  Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman
         conference: AISTATS 2020 (submitted)
 
 projects:
