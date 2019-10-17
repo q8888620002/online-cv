@@ -68,7 +68,7 @@ experiences:
       time: October 2018 - present
       company: MIT Laboratory for Computational Physiology, Cambridge, MA	
       details: |
-        Advisor: LiWei Lehman, Finale Doshi-Velez, Roger Mark
+        Advisors, LiWei Lehman, Finale Doshi-Velez, Roger Mark
     
         Currently developing methodology for simulation of disease trajectory and long-term treatment regime using 
         cardiovascular simulator with the goal of examining and validating the counterfactual prediction by the 
@@ -84,7 +84,7 @@ experiences:
       time: August 2017 - January 2018
       company: Academia Sinica, Institution of Information Science, Taipei, Taiwan
       details: |
-      	  Advisor: TingYi Sung
+      	  Advisor, TingYi Sung
 
           Improved efficiency of protein spectrum viewer by refactoring data structure and deploying visitor pattern of fragmented spectrum. 
              Designed and implemented user interface of the spectrum viewer.
@@ -95,7 +95,7 @@ experiences:
       time: Dec 2016 - March 2017
       company: National Taiwan University Hospital, Taipei, Taiwan
       details: |
-          Advisor: LaiFei Pi
+          Advisor, LaiFei Pi
 
           Imputed data of electronic health record of 200,000+ patients of SQL database and 
              established prediction model of patient visiting time in outpatient Department of Pulmonary Medicine. 
