@@ -114,7 +114,7 @@ teaching_experiences:
           Organized curriculum and invited speakers. Supervised and instructed students with medical data analysis. 
           
     - role: Invited Mentor, Milan Critical Care Datathon
-      time:  February 2019
+      time:  Feb 2019
       company: Milan Critical Care Datathon, Milan, Italy
       details: |
           Invited Mentor. Helped participants understand medical concept of topics. Organized and facilitated team communication. Instructed and assisted participants with the technique issue of data analytic tool.
@@ -156,10 +156,9 @@ clinical_experience:
       details: |
           Core clinical rotation in major specialties, primary care duty, surgical assistance. Analyzed laboratory results, and gathered information during examination to properly diagnose illness. 
 
-
     - role: CoFounder &amp; CTO
       time:  Nov 2016 - Present
-      company: TinyNote   https://thetinynotes.com/, Taipei, Taiwan
+      company: <a href="https://thetinynotes.com/" target="_blank">TinyNote</a>, Taipei, Taiwan
       details: |
       
           A website of physician-authored clinical decision support resources, allowing medical professionals to follow the more than 800+ latest guidelines of diseases and
