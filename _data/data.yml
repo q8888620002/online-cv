@@ -100,9 +100,6 @@ experiences:
 projects:
     title: Teaching &amp; Mentoring Experience
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Collaborative Data Science in Medicine	
@@ -134,6 +131,26 @@ publications:
       - title: G-Net- A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes.
         authors: Rui Li, Zach Shahn(co-first authors), Jun Li,  MingYu Lu,  Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman
         conference: AISTATS 2020 (submitted)
+
+projects:
+    title: Editoral Activities
+    intro: >
+
+    assignments:
+      - title: NeurIPS Machine Learning for Health (ML4H) Workshop 2019	
+        tagline: "Reviewer"
+
+projects:
+    title: Award
+    intro: >
+
+    assignments:
+      - title: LEAP Fellowship of the Ministry of Science and Technology of Taiwan, 2019.	
+        tagline: "Exclusively for applicants who have M.D. degree or Ph.D. degree with significant academic achievement,
+        data analytics, statistical, and programming experience. "
+
+    
+
 
 skills:
     title: Skills &amp; Proficiency
