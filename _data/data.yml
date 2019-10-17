@@ -50,17 +50,22 @@ career-profile:
 education:
     - degree: Master of Biomedical Informatics
       university: Harvard Medical School 
-      time: 2018 - 2019
+      time: Aug 2018 - May 2019
       details: |
        Thesis: Sensitivity Analysis of Deep Q-Learning  for Sepsis Treatment. Studies include Computational Statistics, 
        Artificial Intelligence, Machine Learning, Data Science in Medicine, and Database Design.
 
     - degree: Doctor of Medicine
       university: Kaohsiung Medical University 
-      time: 2011 - 2017
+      time: Aug 2011 - June 2017
       details: |
         Studies included biochemistry, genetics, pharmacology, pathology, anatomy, physiology a
         nd medical microbiology. 
+        
+    - degree: MIT OpenCourse Ware
+      time: May 2015
+      details: | 
+         Computer science courses included introduction to algorithms, 6.006, and elements of software construction, 6.005
 
 experiences:
       #title: Experiences
