@@ -156,6 +156,17 @@ clinical_experience:
       details: |
           Core clinical rotation in major specialties, primary care duty, surgical assistance. Analyzed laboratory results, and gathered information during examination to properly diagnose illness. 
 
+
+    - role: CoFounder &amp; CTO
+      time:  Nov 2016 - Present
+      company: TinyNote   https://thetinynotes.com/, Taipei, Taiwan
+      details: |
+      
+          A website of physician-authored clinical decision support resources, allowing medical professionals to follow the more than 800+ latest guidelines of diseases and
+          clinical inquiry with monthly 180,000+ active users.
+          
+          Responsible for AWS deployment, development and maintenance of back-end APIs, database, text-searching package of NodeBB, and Google search engine optimization.
+
 skills:
     title: Skills &amp; Proficiency
 
