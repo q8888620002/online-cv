@@ -99,8 +99,6 @@ experiences:
             with an MSE of 4.3 minutes as the outcome. (Dec 2016 - March 2017)
 projects:
     title: Teaching &amp; Mentoring Experience
-    intro: >
-
     assignments:
       - title: Collaborative Data Science in Medicine	
         tagline: "Faculty of HST.953, Health Sciences and Technology, Harvard-MIT. Organized curriculum and 
@@ -116,9 +114,7 @@ projects:
 publications:
     title: Publications
     intro: 
-          You can list your side projects or open source libraries in this
-          section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  
     papers:
       - title: A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data.
         authors: Niklas Rindtorff, Alexander D’Amour, MingYu Lu, Huahua Zheng, and Nisarg Patel
