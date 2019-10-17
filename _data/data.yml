@@ -87,7 +87,7 @@ experiences:
              Designed and implemented user interface of the spectrum viewer.
              
           - Standardized data of breast cancer genomics, 100,000+ DNA, RNA, and phosphates, and 
-            selected clinical features to predict expression level of breast cancer proteome. (August 2017 - January 2018)
+            selected clinical features to predict expression level of breast cancer proteome. \
     - role: Research Assistant
       time: Dec 2016 - March 2017
       company: National Taiwan University Hospital, Taipei, Taiwan
@@ -96,7 +96,7 @@ experiences:
              established prediction model of patient visiting time in outpatient Department of Pulmonary Medicine. 
              
           - Implemented random forest regression and factorization machine with Libm in Python, 
-            with an MSE of 4.3 minutes as the outcome. (Dec 2016 - March 2017)
+            with an MSE of 4.3 minutes as the outcome. 
 
 teaching_experiences: 
     - role: Faculty, Collaborative Data Science in Medicine, HST.953
