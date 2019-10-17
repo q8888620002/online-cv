@@ -103,13 +103,13 @@ experiences:
 
 
 teaching_experiences: 
-    - role: Faculty of HST.953, Health Sciences and Technology, Harvard-MIT
+    - role: Faculty, Collaborative Data Science in Medicine, HST.953
       time: July 2019 - present
-      company: Collaborative Data Science in Medicine, Cambridge, MA
+      company: Health Sciences and Technology, Harvard-MIT, Cambridge, MA
       details: |
           - Organized curriculum and invited speakers. Supervised and instructed students with medical data analysis. 
           
-    - role: Faculty of HST.953, Health Sciences and Technology, Harvard-MIT
+    - role: Invited Mentor, Milan Critical Care Datathon
       time:  February 2019
       company: Milan Critical Care Datathon, Milan, Italy
       details: |
