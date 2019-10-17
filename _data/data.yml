@@ -7,33 +7,31 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: MINGYU LU 
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: MingYu Lu 
+    tagline: Postdoctoral Research
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: mingyulu@mit.edu
+    #phone: 012 345 6789
+   # website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    github: q8888620002
+   # gitlab:
+  #  bitbucket:
+    #twitter: '@webjeda'
+   # stack-overflow: # Number/Username, e.g. 123456/alandoe
+   # codewars:
+  #  goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
+     
     interests:
       - item: Climbing
         link:
@@ -56,49 +54,32 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Biomedical Informatics
+      university: Harvard Medical School 
+      time: 2018 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+       Thesis: Sensitivity Analysis of Deep Q-Learning  for Sepsis Treatment. Studies include Computational Statistics, 
+       Artificial Intelligence, Machine Learning, Data Science in Medicine, and Database Design.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Doctor of Medicine
+      university: Kaohsiung Medical University 
+      time: 2011 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Studies included biochemistry, genetics, pharmacology, pathology, anatomy, physiology a
+        nd medical microbiology. 
 
-          - Bullet point
-          - Bullet point
-
-experiences:
+research experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: October 2018 - present
+      company: MIT Laboratory for Computational Physiology	
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        - Currently developing methodology for simulation of disease trajectory and long-term treatment regime using 
+        cardiovascular simulator with the goal of examining and validating the counterfactual prediction by the 
+        use of G-computation and Recurrent Neural Network. 
+        - Formalized, designed and discretized states, action and reward of Dueling Double DQN agent of sepsis treatment. 
+        Queried and imputed 4 millions of multivariate time series data of 19,000+ ICU patients from MIMIC electronic health database.
+        - Designed evaluation metrics to characterize behavior of Deep Reinforcement Learning for clinical decision making. 
+        Analyzed the influence of states definition, embedding modules, reward function and other environmental intrinsic factors on DDDQN. 
 
     - role: Senior Software Engineer
       time: 2014 - 2015
