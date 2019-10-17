@@ -136,7 +136,7 @@ projects:
 
 rewards:
     title: Award
-    reward:
+    assignments::
       - title: LEAP Fellowship of the Ministry of Science and Technology of Taiwan, 2019.	
         tagline: "Exclusively for applicants who have M.D. degree or Ph.D. degree with significant academic achievement, data analytics, statistical, and programming experience."
 
