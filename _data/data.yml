@@ -97,19 +97,25 @@ experiences:
              
           - Implemented random forest regression and factorization machine with Libm in Python, 
             with an MSE of 4.3 minutes as the outcome. (Dec 2016 - March 2017)
-            
-projects:
+
+
+
+
+
+teaching_experiences:
     title: Teaching &amp; Mentoring Experience
     intro: 
-
-    assignments:
-      - title: Collaborative Data Science in Medicine	
-        tagline: "Faculty of HST.953, Health Sciences and Technology, Harvard-MIT. Organized curriculum and invited speakers. Supervised and instructed students with medical data analysis. (July 2019 - present)"
-
-      - title: Milan Critical Care Datathon
-        tagline: "Invited Mentor. Helped participants understand medical concept of topics. Organized and facilitated team communication. Instructed and assisted participants with the technique issue of data analytic tool. (February 2019)"
-
     
+    - role: Faculty of HST.953, Health Sciences and Technology, Harvard-MIT
+          time: Cambridge, MA
+          company: Collaborative Data Science in Medicine
+          details: |
+              - Organized curriculum and invited speakers. Supervised and instructed students with medical data analysis. (July 2019 - present)
+    - role: Faculty of HST.953, Health Sciences and Technology, Harvard-MIT
+          time: Milan, Italy
+          company: Milan Critical Care Datathon
+          details: |
+              - Invited Mentor. Helped participants understand medical concept of topics. Organized and facilitated team communication. Instructed and assisted participants with the technique issue of data analytic tool. (February 2019)
 
 publications:
     title: Publications
