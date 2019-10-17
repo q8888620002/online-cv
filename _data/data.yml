@@ -102,15 +102,14 @@ experiences:
 
 
 
-teaching_experiences:
-    title: Teaching &amp; Mentoring Experience
-    intro: 
-    
+teaching_experiences: 
     - role: Faculty of HST.953, Health Sciences and Technology, Harvard-MIT
-          company: Collaborative Data Science in Medicine,  Cambridge, MA
+          time: 
+          company: Collaborative Data Science in Medicine, Cambridge, MA
           details: |
               - Organized curriculum and invited speakers. Supervised and instructed students with medical data analysis. (July 2019 - present)
     - role: Faculty of HST.953, Health Sciences and Technology, Harvard-MIT
+          time: 
           company: Milan Critical Care Datathon, Milan, Italy
           details: |
               - Invited Mentor. Helped participants understand medical concept of topics. Organized and facilitated team communication. Instructed and assisted participants with the technique issue of data analytic tool. (February 2019)
