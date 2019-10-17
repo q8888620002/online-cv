@@ -65,7 +65,7 @@ education:
 experiences:
       #title: Experiences
     - role: Postdoctroal Research
-      time: October 2018 - present
+      time: Oct 2018 - Present
       company: MIT Laboratory for Computational Physiology, Cambridge, MA	
       details: |
       
@@ -82,7 +82,7 @@ experiences:
         Analyzed the influence of states definition, embedding modules, reward function and other environmental intrinsic factors on DDDQN. 
 
     - role: Research Assistant					
-      time: August 2017 - January 2018
+      time: Aug 2017 - Jan 2018
       company: Academia Sinica, Institution of Information Science, Taipei, Taiwan
       details: |
       
@@ -108,7 +108,7 @@ experiences:
 
 teaching_experiences: 
     - role: Faculty, Collaborative Data Science in Medicine, HST.953
-      time: July 2019 - present
+      time: July 2019 - Present
       company: Health Sciences and Technology, Harvard-MIT, Cambridge, MA
       details: |
           Organized curriculum and invited speakers. Supervised and instructed students with medical data analysis. 
@@ -125,15 +125,15 @@ publications:
   
     papers:
       - title: A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data.
-        authors: Niklas Rindtorff, Alexander D’Amour,<span style="color:black">MingYu Lu</span>, Huahua Zheng, and Nisarg Patel
+        authors: Niklas Rindtorff, Alexander D’Amour, <span style="color:black">MingYu Lu</span>, Huahua Zheng, and Nisarg Patel
         conference: Machine Learning for Health (ML4H) Workshop at NeurIPS 2019. (accepted)
 
       - title: Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment.
-        authors: <b style="color:black">MingYu Lu</b>, Zach Shah, Li-Wei Lehman
+        authors: <span style="color:black">MingYu Lu</span>, Zach Shah, Li-Wei Lehman
         conference: New In ML Workshop at NeurIPS 2019. (submitted)
 
       - title: G-Net- A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes.
-        authors: Rui Li, Zach Shahn(co-first authors), Jun Li,  <b style="color:black">MingYu Lu</b>,  Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman
+        authors: Rui Li, Zach Shahn(co-first authors), Jun Li, <span style="color:black">MingYu Lu</b>,  Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman
         conference: AISTATS 2020 (submitted)
 
 projects:
