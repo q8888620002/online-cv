@@ -19,7 +19,7 @@
   {% for reward in rewards.assignments %}
     <div class="item">
 
-      <span class="reward-title">
+      <span class="project-title">
         {% if reward.link %}
         <a href="{{ reward.link }}" target="_blank">{{ reward.title }}</a>
         {% else %}
@@ -28,7 +28,7 @@
       </span>
 
       {% if reward.tagline %}
-      - <span class="reward-tagline">{{ reward.tagline }}</span>
+      - <span class="project-tagline">{{ reward.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
