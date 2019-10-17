@@ -149,7 +149,7 @@ rewards:
         tagline: "Exclusively for applicants who have M.D. degree or Ph.D. degree with significant academic achievement, data analytics, statistical, and programming experience."
 
     
-clinical_experiences: 
+clinical_experience: 
     - role: Medical Intern 
       time: May 2016 - May 2017
       company: National Taiwan University Hospital, Taipei, Taiwan
