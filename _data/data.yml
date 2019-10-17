@@ -15,7 +15,7 @@ sidebar:
     email: mingyulu@mit.edu
     #phone: 012 345 6789
    # website: blog.webjeda.com #do not add http://
-    linkedin: www.linkedin.com/in/min-yu-lu-128410108/
+    linkedin: www.linkedin.com/in/min-yu-lu-128410108
     github: q8888620002
    # gitlab:
   #  bitbucket:
@@ -71,7 +71,7 @@ education:
  experiences:
     - role: Postdoctroal Research
       time: October 2018 - present
-      company: MIT Laboratory for Computational Physiology	
+      company: MIT Laboratory for Computational Physiology, Cambridge, MA	
       details: |
         - Currently developing methodology for simulation of disease trajectory and long-term treatment regime using 
         cardiovascular simulator with the goal of examining and validating the counterfactual prediction by the 
@@ -81,31 +81,23 @@ education:
         - Designed evaluation metrics to characterize behavior of Deep Reinforcement Learning for clinical decision making. 
         Analyzed the influence of states definition, embedding modules, reward function and other environmental intrinsic factors on DDDQN. 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Assistant					
+      time: August 2017 - January 2018
+      company: Academia Sinica, Institution of Information Science, Taipei, Taiwan
+
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Improved efficiency of protein spectrum viewer by refactoring data structure and deploying visitor pattern of fragmented spectrum. 
+             Designed and implemented user interface of the spectrum viewer.
+          - Standardized data of breast cancer genomics, 100,000+ DNA, RNA, and phosphates, and 
+            selected clinical features to predict expression level of breast cancer proteome. (August 2017 - January 2018)
+    - role: Research Assistant
+      time: Dec 2016 - March 2017
+      company: National Taiwan University Hospital, Taipei, Taiwan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Imputed data of electronic health record of 200,000+ patients of SQL database and 
+             established prediction model of patient visiting time in outpatient Department of Pulmonary Medicine. 
+          - Implemented random forest regression and factorization machine with Libm in Python, 
+            with an MSE of 4.3 minutes as the outcome. (Dec 2016 - March 2017)
 
 projects:
     title: Projects
