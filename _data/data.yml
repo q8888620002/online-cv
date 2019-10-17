@@ -68,6 +68,7 @@ experiences:
       time: October 2018 - present
       company: MIT Laboratory for Computational Physiology, Cambridge, MA	
       details: |
+      
         Advisors, LiWei Lehman, Finale Doshi-Velez, Roger Mark
     
         Currently developing methodology for simulation of disease trajectory and long-term treatment regime using 
@@ -84,6 +85,7 @@ experiences:
       time: August 2017 - January 2018
       company: Academia Sinica, Institution of Information Science, Taipei, Taiwan
       details: |
+      
       	  Advisor, TingYi Sung
 
           Improved efficiency of protein spectrum viewer by refactoring data structure and deploying visitor pattern of fragmented spectrum. 
@@ -95,6 +97,7 @@ experiences:
       time: Dec 2016 - March 2017
       company: National Taiwan University Hospital, Taipei, Taiwan
       details: |
+      
           Advisor, LaiFei Pi
 
           Imputed data of electronic health record of 200,000+ patients of SQL database and 
