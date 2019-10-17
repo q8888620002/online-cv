@@ -75,9 +75,11 @@ experiences:
       details: |
         - Currently developing methodology for simulation of disease trajectory and long-term treatment regime using 
         cardiovascular simulator with the goal of examining and validating the counterfactual prediction by the 
-        use of G-computation and Recurrent Neural Network. 
+        use of G-computation and Recurrent Neural Network.
+        
         - Formalized, designed and discretized states, action and reward of Dueling Double DQN agent of sepsis treatment. 
         Queried and imputed 4 millions of multivariate time series data of 19,000+ ICU patients from MIMIC electronic health database.
+        
         - Designed evaluation metrics to characterize behavior of Deep Reinforcement Learning for clinical decision making. 
         Analyzed the influence of states definition, embedding modules, reward function and other environmental intrinsic factors on DDDQN. 
 
@@ -88,6 +90,7 @@ experiences:
       details: |
           - Improved efficiency of protein spectrum viewer by refactoring data structure and deploying visitor pattern of fragmented spectrum. 
              Designed and implemented user interface of the spectrum viewer.
+             
           - Standardized data of breast cancer genomics, 100,000+ DNA, RNA, and phosphates, and 
             selected clinical features to predict expression level of breast cancer proteome. (August 2017 - January 2018)
     - role: Research Assistant
@@ -96,6 +99,7 @@ experiences:
       details: |
           - Imputed data of electronic health record of 200,000+ patients of SQL database and 
              established prediction model of patient visiting time in outpatient Department of Pulmonary Medicine. 
+             
           - Implemented random forest regression and factorization machine with Libm in Python, 
             with an MSE of 4.3 minutes as the outcome. (Dec 2016 - March 2017)
 
