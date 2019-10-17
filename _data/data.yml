@@ -68,6 +68,8 @@ experiences:
       time: October 2018 - present
       company: MIT Laboratory for Computational Physiology, Cambridge, MA	
       details: |
+        Advisor: LiWei Lehman, Finale Doshi-Velez, Roger Mark
+    
         Currently developing methodology for simulation of disease trajectory and long-term treatment regime using 
         cardiovascular simulator with the goal of examining and validating the counterfactual prediction by the 
         use of G-computation and Recurrent Neural Network.
@@ -83,6 +85,8 @@ experiences:
       company: Academia Sinica, Institution of Information Science, Taipei, Taiwan
 
       details: |
+      	  Advisor: TingYi Sung
+
           Improved efficiency of protein spectrum viewer by refactoring data structure and deploying visitor pattern of fragmented spectrum. 
              Designed and implemented user interface of the spectrum viewer.
              
@@ -92,6 +96,8 @@ experiences:
       time: Dec 2016 - March 2017
       company: National Taiwan University Hospital, Taipei, Taiwan
       details: |
+          Advisor: LaiFei Pi
+
           Imputed data of electronic health record of 200,000+ patients of SQL database and 
              established prediction model of patient visiting time in outpatient Department of Pulmonary Medicine. 
              
@@ -103,13 +109,13 @@ teaching_experiences:
       time: July 2019 - present
       company: Health Sciences and Technology, Harvard-MIT, Cambridge, MA
       details: |
-          - Organized curriculum and invited speakers. Supervised and instructed students with medical data analysis. 
+          Organized curriculum and invited speakers. Supervised and instructed students with medical data analysis. 
           
     - role: Invited Mentor, Milan Critical Care Datathon
       time:  February 2019
       company: Milan Critical Care Datathon, Milan, Italy
       details: |
-          - Invited Mentor. Helped participants understand medical concept of topics. Organized and facilitated team communication. Instructed and assisted participants with the technique issue of data analytic tool.
+          Invited Mentor. Helped participants understand medical concept of topics. Organized and facilitated team communication. Instructed and assisted participants with the technique issue of data analytic tool.
 
 publications:
     title: Publications
@@ -117,7 +123,7 @@ publications:
   
     papers:
       - title: A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data.
-        authors: Niklas Rindtorff, Alexander D’Amour,<b style="color:black">MingYu Lu</b>, Huahua Zheng, and Nisarg Patel
+        authors: Niklas Rindtorff, Alexander D’Amour,<span style="color:black">MingYu Lu</span>, Huahua Zheng, and Nisarg Patel
         conference: Machine Learning for Health (ML4H) Workshop at NeurIPS 2019. (accepted)
 
       - title: Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment.
