@@ -137,23 +137,19 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data.
+        authors: Niklas Rindtorff, Alexander D’Amour, MingYu Lu, Huahua Zheng, and Nisarg Patel
+        conference: Machine Learning for Health (ML4H) Workshop at NeurIPS 2019. (accepted)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment.
+        authors: MingYu Lu, Zach Shah, Li-Wei Lehman
+        conference: New In ML Workshop at NeurIPS 2019. (submitted)
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes.
+        authors: Rui Li, Zach Shahn(co-first authors), Jun Li,  MingYu Lu,  Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman
+        conference: AISTATS 2020 (submitted)
 
 skills:
     title: Skills &amp; Proficiency
