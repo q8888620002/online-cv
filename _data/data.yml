@@ -98,7 +98,7 @@ experiences:
           - Implemented random forest regression and factorization machine with Libm in Python, 
             with an MSE of 4.3 minutes as the outcome. (Dec 2016 - March 2017)
 projects:
-    title: Teaching & Mentoring Experience
+    title: Teaching &amp; Mentoring Experience
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
