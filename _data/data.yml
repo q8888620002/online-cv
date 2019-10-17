@@ -150,7 +150,7 @@ publications:
         authors: MingYu Lu, Zach Shah, Li-Wei Lehman
         conference: New In ML Workshop at NeurIPS 2019. (submitted)
 
-      - title: G-Net: A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes.
+      - title: G-Net- A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes.
         authors: Rui Li, Zach Shahn(co-first authors), Jun Li,  MingYu Lu,  Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman
         conference: AISTATS 2020 (submitted)
 
