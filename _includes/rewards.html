@@ -27,8 +27,8 @@
         {% endif %}
       </span>
 
-      {% if reward.tagline %}
-      - <span class="project-tagline">{{ reward.tagline }}</span>
+      {% if reward.details %}
+      <div class="details">{{ reward.details| markdownify  }}</div>
       {% endif %}
 
     </div><!--//item-->
