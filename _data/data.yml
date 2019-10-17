@@ -117,15 +117,15 @@ publications:
   
     papers:
       - title: A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in vitro Data.
-        authors: Niklas Rindtorff, Alexander D’Amour, MingYu Lu, Huahua Zheng, and Nisarg Patel
+        authors: Niklas Rindtorff, Alexander D’Amour,<b>MingYu Lu</b>, Huahua Zheng, and Nisarg Patel
         conference: Machine Learning for Health (ML4H) Workshop at NeurIPS 2019. (accepted)
 
       - title: Sensitivity Analysis of Deep Reinforcement Learning for Sepsis Treatment.
-        authors: MingYu Lu, Zach Shah, Li-Wei Lehman
+        authors: <b>MingYu Lu</b>, Zach Shah, Li-Wei Lehman
         conference: New In ML Workshop at NeurIPS 2019. (submitted)
 
       - title: G-Net- A Deep Learning Approach to G-computation for Counterfactual Outcome Prediction Under Dynamic Treatment Regimes.
-        authors: Rui Li, Zach Shahn(co-first authors), Jun Li,  MingYu Lu,  Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman
+        authors: Rui Li, Zach Shahn(co-first authors), Jun Li,  <b>MingYu Lu</b>,  Prithwish Chakraborty, Daby Sow, Mohamed Ghalwash, Li-wei H Lehman
         conference: AISTATS 2020 (submitted)
 
 projects:
