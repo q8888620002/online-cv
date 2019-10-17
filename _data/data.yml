@@ -63,6 +63,7 @@ education:
         nd medical microbiology. 
 
 experiences:
+    title: Experience
     - role: Postdoctroal Research
       time: October 2018 - present
       company: MIT Laboratory for Computational Physiology, Cambridge, MA	
@@ -97,32 +98,23 @@ experiences:
           - Implemented random forest regression and factorization machine with Libm in Python, 
             with an MSE of 4.3 minutes as the outcome. (Dec 2016 - March 2017)
 projects:
-    title: Projects
+    title: Teaching & Mentoring Experience
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Collaborative Data Science in Medicine	
+        tagline: "Faculty of HST.953, Health Sciences and Technology, Harvard-MIT. Organized curriculum and 
+        invited speakers. Supervised and instructed students with medical data analysis. (July 2019 - present)"
 
-      - title: DevStudio
+      - title: Milan Critical Care Datathon
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Invited Mentor. Helped participants understand medical concept of topics. Organized and 
+        facilitated team communication. Instructed and assisted participants with the technique issue of data analytic tool. (February 2019)"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    
 
 publications:
     title: Publications
